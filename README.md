@@ -4,6 +4,8 @@
 a quadruped robot, inspired from OpenQuadrupeder/microspotAi robot
 https://gitlab.com/custom_robots/spotmicroai/website
 
+forum : https://app.slack.com/client/TLWGGB71C/CMN94UF0F
+
 ------------------
 
 # PAY ATTENTION !! THE ROBOT HAS NOT BEEN TESTED FOR NOW, WITH WALK CYCLE
