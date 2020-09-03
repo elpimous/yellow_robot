@@ -5,8 +5,9 @@ a quadruped robot, inspired from OpenQuadripeder/microspotAi robot
 
 ------------------
 
-*** PAY ATTENTION !! THE ROBOT HAS NOT BEEN TESTED FOR NOW, WITH WALK CYCLE ***
+###PAY ATTENTION !! THE ROBOT HAS NOT BEEN TESTED FOR NOW, WITH WALK CYCLE
 
+------------------
 
 SYSTEM VERSION : Ubuntu 18.04 64bits
 
