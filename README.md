@@ -41,6 +41,12 @@ OTHERS         :
                  1 20x40mm speaker
                  
                  2 Neopixels 8x
+                 
+                 1 RGB led
+                 
+                 2 x ADC ADS 1115
+                 
+                 1 tiny led screen
 
 ------------------
 
