@@ -1,10 +1,12 @@
 # yellow_robot
 ------------------
-------------------
 
 a quadruped robot, inspired from OpenQuadripeder/microspotAi robot
 
 ------------------
+
+*** PAY ATTENTION !! THE ROBOT HAS NOT BEEN TESTED FOR NOW, WITH WALK CYCLE ***
+
 
 SYSTEM VERSION : Ubuntu 18.04 64bits
 
@@ -59,6 +61,13 @@ BELTS              :
                      4 x GT2 2 m 2 mm pitch 6 mm
 https://www.ebay.fr/itm/GT2-2M-2mm-Pitch-6mm-Width-Closed-Loop-Synchronous-Timing-Belt-for-Pulley-CNC-3D/283194907394?ssPageName=STRK%3AMEBIDX%3AIT&var=585191909441&_trksid=p2057872.m2749.l2649
 
+------------------
+
+TOTAL WEIGHT :
+
+                   3080 Grs
+                   
+------------------
 
 ![Alt text](/OpenQuad_V2/images/boxed.jpg?raw=true "Openquad_v2")
 
