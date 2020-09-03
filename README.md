@@ -2,6 +2,7 @@
 ------------------
 
 a quadruped robot, inspired from OpenQuadrupeder/microspotAi robot
+https://gitlab.com/custom_robots/spotmicroai/website
 
 ------------------
 
