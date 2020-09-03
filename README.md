@@ -21,10 +21,15 @@ SERVOS         : 12 x DS3218MG 180°
 ------------------
 
 OTHERS         : 1 D435 intel depth camera
+
                  3 HC04P iltrasonic sensors
+                 
                  1 raspberrypi picam
+                 
                  1 analogic joystick
+                 
                  1 20x40mm speaker
+                 
                  2 Neopixels 8x
 
 ------------------
