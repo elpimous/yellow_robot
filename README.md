@@ -1,7 +1,7 @@
 # yellow_robot
 ------------------
 
-a quadruped robot, inspired from OpenQuadripeder/microspotAi robot
+a quadruped robot, inspired from OpenQuadrupeder/microspotAi robot
 
 ------------------
 
@@ -36,6 +36,8 @@ OTHERS         :
                  
                  1 raspberrypi picam
                  
+                 1 imu (mine : Myahrs+)
+                 
                  1 analogic joystick
                  
                  1 20x40mm speaker
@@ -47,6 +49,10 @@ OTHERS         :
                  2 x ADC ADS 1115
                  
                  1 tiny led screen
+                 
+                 1 5v ubec
+                 
+                 1  power switch
 
 ------------------
 
