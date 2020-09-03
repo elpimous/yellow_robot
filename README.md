@@ -1,6 +1,10 @@
 # yellow_robot
+------------------
+------------------
 
 a quadruped robot, inspired from OpenQuadripeder/microspotAi robot
+
+------------------
 
 SYSTEM VERSION : Ubuntu 18.04 64bits
 
@@ -51,6 +55,7 @@ METAL SERVOS ARMS  :
 https://www.ebay.fr/itm/x5-Metal-Round-Servo-Arm-25T-Disc-Horns-for-MG995-MG996R-Futaba-Savox-RC-Robot/263283372008?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
 BELTS              :
+
                      4 x GT2 2 m 2 mm pitch 6 mm
 https://www.ebay.fr/itm/GT2-2M-2mm-Pitch-6mm-Width-Closed-Loop-Synchronous-Timing-Belt-for-Pulley-CNC-3D/283194907394?ssPageName=STRK%3AMEBIDX%3AIT&var=585191909441&_trksid=p2057872.m2749.l2649
 
@@ -78,6 +83,8 @@ Filaments : Z-ABS+, Z-ULTRA, ABS+ Black CARBON.
 infill : 20%
 
 ![Alt text](/OpenQuad_V2/images/zortrax_m200_plus.jpg?raw=true "Openquad_v2")
+
+------------------
 
 Vincent FOUCAULT
 vincentfoucault12@gmail.com
