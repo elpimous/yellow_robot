@@ -1,6 +1,7 @@
 # yellow_robot
+
 a quadruped robot, inspired from OpenQuadripeder/microspotAi robot
-<<<<<<< HEAD
+
 ![Alt text](/OpenQuad_V2/images/boxed.jpg?raw=true "Openquad_v2")
 
 ![Alt text](/OpenQuad_V2/images/handle.jpg?raw=true "Openquad_v2")
@@ -24,3 +25,7 @@ Filaments : Z-ABS+, Z-ULTRA, ABS+ Black CARBON.
 infill : 20%
 
 ![Alt text](/OpenQuad_V2/images/zortrax_m200_plus.jpg?raw=true "Openquad_v2")
+
+Vincent FOUCAULT
+vincentfoucault12@gmail.com
+FRANCE
