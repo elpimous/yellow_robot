@@ -12,6 +12,29 @@ forum : https://app.slack.com/client/TLWGGB71C/CMN94UF0F
 
 ------------------
 
+### To-Do List
+
+- [x] *Hardware* // Teensy firmware, from Maurice Rahme, https://github.com/moribots/spot_mini_mini/tree/spot/spot_real/Control/Teensy,
+
+- [x] *Builds*   // modify legs : add a belt tensionner,
+- [x] *Builds*   // modify upper legs : simulate a DLDC motors,
+- [x] *Builds*   // modify legs : add a belt tensionner,
+- [x] *Builds*   // add a handle,
+- [ ] *Builds*   // add bottom cover metal patchs, for dock station charge,
+
+- [ ] *Software* // Myahrs+ usb IMU. Create/add the ROS Melodic package,
+- [ ] *Software* // Ultrasonic sensors (FL, FR, Back). Create the ROS Melodic package who publishs the 3 topics,
+- [ ] *Software* // D435 intel camera. Create/add the ROS Melodic package,
+- [ ] *Software* // HP Speaker. Create the ROS Melodic package, with a service,
+- [ ] *Software* // RGB leds ramps (FL and FR). Create the ROS Melodic package, with a service,
+- [ ] *Software* // back lcd screen I2C. Create the ROS Melodic package, with a service,
+- [ ] *Software* // back RPI Cam. Create the ROS Melodic package,
+- [ ] *Software* // back joystick (ADC ADS1115 I2C). Create the ROS Melodic package,
+- [x] *Software* // top cover RGB led. Create the ROS Melodic package,
+- [ ] *Software* // battery status (ADC ADS1115 I2C). Create the ROS Melodic package,
+
+
+
 SYSTEM VERSION : Ubuntu 18.04 64bits
 
 ROS VERSION    : Ros version 1 : MELODIC
