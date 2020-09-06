@@ -1,0 +1,5 @@
+<launch>
+  <!-- launch oled node-->
+  <node name="yellow_neopixels_node" pkg="yellow_neopixels" type="neopixels.py" output="screen">
+  </node>
+</launch>

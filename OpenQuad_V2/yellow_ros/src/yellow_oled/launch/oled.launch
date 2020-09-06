@@ -1,0 +1,5 @@
+<launch>
+  <!-- launch oled node-->
+  <node name="yellow_oled_node" pkg="yellow_oled" type="oled.py" output="screen">
+  </node>
+</launch>

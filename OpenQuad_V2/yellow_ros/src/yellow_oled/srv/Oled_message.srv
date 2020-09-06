@@ -1,0 +1,8 @@
+# commands to send to oled screen:
+# rows, columns
+# command : 0 = clear, 1 = print, 2 = scroll_text, 3 = graphics
+
+int32 row
+int32 column
+uint8 command
+string sentence
