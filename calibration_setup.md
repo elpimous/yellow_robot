@@ -62,9 +62,9 @@ Let's go for calibration (assume that your teensy is correctly connected to your
 
 Robot legs should be straight, and 90° to body (like on previous picture)
 
--run terminal command : roslaunch mini_ros spot_calibrate.launch
+- run terminal command : roslaunch mini_ros spot_calibrate.launch
 
--open a new terminal and enter the following command : rosservice call /servo_calibraton   and press 2 times on TAB.
+- open a new terminal and enter the following command : rosservice call /servo_calibraton   and press 2 times on TAB.
 
 You'll see complete command needed to interact with all specific servos angles.
 
@@ -113,7 +113,7 @@ Next mode, change in main.cpp the MODE to LIEDOWN:
 Flash
 
 You should confirm the following robot_pose :
-![Alt text](/OpenQuad_V2/images/???.png?raw=true "Openquad")
+![Alt text](/OpenQuad_V2/images/liedown_pose.png?raw=true "Openquad")
 
 
 
