@@ -4,9 +4,18 @@
 Check your servos connection :
 ------------------------------
 
-start with Front_Left, Front_Right, Back_Left, Back_Right.
-On each member, start with HIP, and Shoulder, and Wrist
-ex : FL_Hip, FL_Shoulder, FL_Wrist, FR..... (FL_Hip is first board pin, "1")
+M01 front left shoulder
+M02 front left elbow
+M03 front left wrist
+M04 front right shoulder
+M05 front right elbow
+M06 front right wrist
+M07 back left shoulder
+M08 back left elbow
+M09 back left wrist
+M10 back right shoulder
+M11 back right elbow
+M12 back right wrist
 
 
 ------------------
