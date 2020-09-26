@@ -1,10 +1,10 @@
 # yellow_robot
 ------------------
 
-a quadruped robot, inspired from OpenQuadrupeder/microspotAi robot
-https://gitlab.com/custom_robots/spotmicroai/website
+	A quadruped robot, inspired from OpenQuadrupeder/microspotAi robot
+	https://gitlab.com/custom_robots/spotmicroai/website
 
-forum : https://app.slack.com/client/TLWGGB71C/CMN94UF0F
+	forum : https://app.slack.com/client/TLWGGB71C/CMN94UF0F
 
 ------------------
 
@@ -33,7 +33,7 @@ forum : https://app.slack.com/client/TLWGGB71C/CMN94UF0F
 - [x] *Software* // top cover RGB led. Create the ROS Melodic package,
 - [ ] *Software* // battery status (ADC ADS1115 I2C). Create the ROS Melodic package,
 
-
+------------------
 
 SYSTEM VERSION : Ubuntu 18.04 64bits
 
@@ -50,7 +50,7 @@ MASTER BOARD   : RPI4B or Jetson Nano
 
 ------------------
 
-SERVOS         : 12 x DS3218MG 180°
+SERVOS         : 12 x DS3218MG 180°, or better...35Kgs
 
 ------------------
 
@@ -82,7 +82,7 @@ OTHERS         :
 
 ------------------
 
-BEARINGS           : 
+BEARINGS           :  (refs/link  may change !!)
 
                       20 x 625.zz 5*16*5
 https://www.ebay.fr/itm/10-x-Kugellager-625-ZZ-5-16-5-mm-3D-Drucker-CNC-Modellbau/181937342662?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
@@ -90,12 +90,12 @@ https://www.ebay.fr/itm/10-x-Kugellager-625-ZZ-5-16-5-mm-3D-Drucker-CNC-Modellba
                        4 x 6810 2RS / 61810 2RS 50x65x7 mm
 https://www.kugellager-express.de/navi.php?kf=&ed=1&qs=6810+2RS+%2F+%26%238234%3B61810+2%26%238236%3BRS+50x65x7+mm&search=
 
-METAL SERVOS ARMS  : 
+METAL SERVOS ARMS  :  (refs/link  may change !!) 
 
                     12 x Metal Round Servo Arm 25T Disc Horns
 https://www.ebay.fr/itm/x5-Metal-Round-Servo-Arm-25T-Disc-Horns-for-MG995-MG996R-Futaba-Savox-RC-Robot/263283372008?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
-BELTS              :
+BELTS              :  (refs/link  may change !!)
 
                      4 x GT2 2 m 2 mm pitch 6 mm
 https://www.ebay.fr/itm/GT2-2M-2mm-Pitch-6mm-Width-Closed-Loop-Synchronous-Timing-Belt-for-Pulley-CNC-3D/283194907394?ssPageName=STRK%3AMEBIDX%3AIT&var=585191909441&_trksid=p2057872.m2749.l2649
@@ -104,24 +104,13 @@ https://www.ebay.fr/itm/GT2-2M-2mm-Pitch-6mm-Width-Closed-Loop-Synchronous-Timin
 
 TOTAL WEIGHT :
 
-                   3080 Grs
+                    ~3080 Grs
                    
 ------------------
 
-                   Servos mount :
+SERVOS MOUNT :
 
-M01 front left shoulder
-M02 front left elbow
-M03 front left wrist
-M04 front right shoulder
-M05 front right elbow
-M06 front right wrist
-M07 back left shoulder
-M08 back left elbow
-M09 back left wrist
-M10 back right shoulder
-M11 back right elbow
-M12 back right wrist
+			 See calibration page !
 
 ------------------
 
@@ -152,6 +141,6 @@ infill : 20%
 
 ------------------
 
-Vincent FOUCAULT
-vincentfoucault12@gmail.com
-FRANCE
+	Vincent FOUCAULT
+	vincentfoucault12@gmail.com
+	FRANCE
