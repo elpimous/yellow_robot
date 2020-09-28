@@ -150,5 +150,5 @@ Robot should adopt the following pose :
 # CALIBRATION DONE !!!
 
 For infos : Teensy 4.1 diagram :
-![Alt text](/OpenQuad_V2/images/teensy4.1_rev2.png?raw=true "Openquad")
+![Alt text](/OpenQuad_V2/images/teensy41.png?raw=true "Openquad")
 
