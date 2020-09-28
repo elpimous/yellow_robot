@@ -6,6 +6,10 @@ Servos connection check :
 ------------------------------
 Be sure to check servos order, or some damages could appear on servos or plastic robot strucure !
 
+See Mano diagram, in doc :
+![Alt text](/OpenQuad_V2/images/SPOT MICRO Controller Manual.docx?raw=true "Openquad")
+
+
 - M01 front left shoulder, ( pin 1 on board, where teensy is plugged ! )
 - M02 front left elbow,
 - M03 front left wrist,
@@ -144,4 +148,7 @@ Robot should adopt the following pose :
 ------------------
 
 # CALIBRATION DONE !!!
+
+For infos : Teensy 4.1 diagram :
+![Alt text](/OpenQuad_V2/images/teensy4.1_rev2.png?raw=true "Openquad")
 
