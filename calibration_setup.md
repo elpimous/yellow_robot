@@ -1,5 +1,5 @@
 # OpenQuad calibration setup
-
+To use with Maurice RAHME package : https://github.com/moribots/spot_mini_mini
 #
 
 Servos connection check :
