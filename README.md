@@ -11,6 +11,13 @@
 # PAY ATTENTION !! THE ROBOT HAS NOT BEEN TESTED FOR NOW, WITH WALK CYCLE
 
 ------------------
+------------------
+
+# There is 2 versions for legs : V2 or V4
+# V2 : 250 grs, BELTS GT2 2m 2 mm pitch 6 mm
+# V4 : 320 grs, BELTS REELY XL 65 teeth, 330mm, 9.5mm  and M4/M5 laiton inserts
+
+------------------
 
 ### To-Do List
 
