@@ -43,6 +43,7 @@ Flash teensy :
 - check and re-check that teensy isn't already powered (with Maurice, Adham, or Mano boards)
 - connect micro_usb to Teensy, other part to PC,
 - install plateformio : **sudo pip install PlatformIO**
+- install needed libs : **https://platformio.org/lib/search?query=Adafruit_Sensor.h&page=1**
 - go to teensy firmware package : /spot_mini_mini/spot_real/Control/Teensy/SpotMiniMini/
 - run terminal command : **platformio run -t upload**
 
