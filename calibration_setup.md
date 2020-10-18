@@ -50,6 +50,15 @@ Flash teensy :
 
 after a while....teensy will be **flashed** (it led will change from **orange to red**, and will **return to orange**)
 
+If you see this error :
+![Alt text](/OpenQuad_V2/images/teensy_flash_4_1.png?raw=true "Openquad")
+
+you need to edit /spot_mini_mini/spot_real/Control/Teensy/SpotMiniMini/plateformio.ini,
+
+and replace board = **teensy40** to  **board = teensy41**
+
+then, run terminal command : **platformio run -t upload**
+
 	Now, your teensy boots on NOMINAL_PWM mode !!!
 
 ------------------
