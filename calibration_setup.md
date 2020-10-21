@@ -51,6 +51,7 @@ Flash teensy :
 after a while....teensy will be **flashed** (it led will change from **orange to red**, and will **return to orange**)
 
 If you see this error :
+
 ![Alt text](/OpenQuad_V2/images/teensy_flash_4_1.png?raw=true "Openquad")
 
 you need to edit /spot_mini_mini/spot_real/Control/Teensy/SpotMiniMini/plateformio.ini,
